@@ -1,0 +1,9 @@
+
+flwr[simulation]==1.4.0
+ray==2.9.3
+scikit-learn
+seaborn
+plotly
+pandas
+matplotlib
+joblib
